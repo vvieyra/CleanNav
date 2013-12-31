@@ -1,0 +1,230 @@
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Visual Studio 2010\Projects\Controls\CleanNav\bin\Release\CleanNav.dll
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Visual Studio 2010\Projects\Controls\CleanNav\bin\Release\CleanNav.pdb
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Visual Studio 2010\Projects\Controls\CleanNav\obj\Release\ResolveAssemblyReference.cache
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Visual Studio 2010\Projects\Controls\CleanNav\obj\Release\CleanNav.dll
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Visual Studio 2010\Projects\Controls\CleanNav\obj\Release\CleanNav.pdb
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Visual Studio 2010\Projects\Controls\CleanNav\bin\Release\Telerik.OpenAccess.dll
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Visual Studio 2010\Projects\Controls\CleanNav\bin\Release\Telerik.Sitefinity.dll
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Visual Studio 2010\Projects\Controls\CleanNav\bin\Release\Telerik.Sitefinity.Model.dll
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Visual Studio 2010\Projects\Controls\CleanNav\bin\Release\Telerik.Sitefinity.Utilities.dll
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Visual Studio 2010\Projects\Controls\CleanNav\bin\Release\Microsoft.WindowsAzure.ServiceRuntime.dll
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Visual Studio 2010\Projects\Controls\CleanNav\bin\Release\Telerik.OpenAccess.35.Extensions.dll
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Visual Studio 2010\Projects\Controls\CleanNav\bin\Release\Facebook.dll
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Visual Studio 2010\Projects\Controls\CleanNav\bin\Release\Telerik.Web.UI.dll
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Visual Studio 2010\Projects\Controls\CleanNav\bin\Release\Telerik.OpenAccess.Web.dll
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Visual Studio 2010\Projects\Controls\CleanNav\bin\Release\Telerik.Windows.RadUploadHandler.dll
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Visual Studio 2010\Projects\Controls\CleanNav\bin\Release\DocumentFormat.OpenXml.dll
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Visual Studio 2010\Projects\Controls\CleanNav\bin\Release\Twitterizer2.dll
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Visual Studio 2010\Projects\Controls\CleanNav\bin\Release\AjaxControlToolkit.dll
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Visual Studio 2010\Projects\Controls\CleanNav\bin\Release\Microsoft.Practices.ServiceLocation.dll
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Visual Studio 2010\Projects\Controls\CleanNav\bin\Release\Microsoft.WindowsAzure.StorageClient.dll
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Visual Studio 2010\Projects\Controls\CleanNav\bin\Release\Microsoft.WindowsAzure.Diagnostics.dll
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Visual Studio 2010\Projects\Controls\CleanNav\bin\Release\DirectShowLib-2005.dll
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Visual Studio 2010\Projects\Controls\CleanNav\bin\Release\Newtonsoft.Json.dll
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Visual Studio 2010\Projects\Controls\CleanNav\bin\Release\Telerik.OpenAccess.xml
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Visual Studio 2010\Projects\Controls\CleanNav\bin\Release\Telerik.Sitefinity.xml
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Visual Studio 2010\Projects\Controls\CleanNav\bin\Release\Telerik.Sitefinity.Model.xml
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Visual Studio 2010\Projects\Controls\CleanNav\bin\Release\Telerik.Sitefinity.Utilities.xml
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Visual Studio 2010\Projects\Controls\CleanNav\bin\Release\Telerik.OpenAccess.35.Extensions.xml
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Visual Studio 2010\Projects\Controls\CleanNav\bin\Release\Facebook.xml
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Visual Studio 2010\Projects\Controls\CleanNav\bin\Release\Telerik.Web.UI.xml
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Visual Studio 2010\Projects\Controls\CleanNav\bin\Release\Telerik.OpenAccess.Web.xml
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Visual Studio 2010\Projects\Controls\CleanNav\bin\Release\DocumentFormat.OpenXml.xml
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Visual Studio 2010\Projects\Controls\CleanNav\bin\Release\Twitterizer2.xml
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Visual Studio 2010\Projects\Controls\CleanNav\bin\Release\Microsoft.Practices.ServiceLocation.xml
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Visual Studio 2010\Projects\Controls\CleanNav\bin\Release\Newtonsoft.Json.xml
+C:\Users\cwoodard.APTERASOFTWARE\Desktop\CleanNav\CleanNav\bin\Release\CleanNav.dll
+C:\Users\cwoodard.APTERASOFTWARE\Desktop\CleanNav\CleanNav\bin\Release\CleanNav.pdb
+C:\Users\cwoodard.APTERASOFTWARE\Desktop\CleanNav\CleanNav\bin\Release\Telerik.OpenAccess.dll
+C:\Users\cwoodard.APTERASOFTWARE\Desktop\CleanNav\CleanNav\bin\Release\Telerik.Sitefinity.dll
+C:\Users\cwoodard.APTERASOFTWARE\Desktop\CleanNav\CleanNav\bin\Release\Telerik.Sitefinity.Model.dll
+C:\Users\cwoodard.APTERASOFTWARE\Desktop\CleanNav\CleanNav\obj\Release\ResolveAssemblyReference.cache
+C:\Users\cwoodard.APTERASOFTWARE\Desktop\CleanNav\CleanNav\obj\Release\CleanNav.dll
+C:\Users\cwoodard.APTERASOFTWARE\Desktop\CleanNav\CleanNav\obj\Release\CleanNav.pdb
+C:\Users\cwoodard.APTERASOFTWARE\Desktop\CleanNav\CleanNav\bin\Release\Telerik.Sitefinity.Utilities.dll
+C:\Users\cwoodard.APTERASOFTWARE\Desktop\CleanNav\CleanNav\bin\Release\Microsoft.WindowsAzure.ServiceRuntime.dll
+C:\Users\cwoodard.APTERASOFTWARE\Desktop\CleanNav\CleanNav\bin\Release\Telerik.OpenAccess.35.Extensions.dll
+C:\Users\cwoodard.APTERASOFTWARE\Desktop\CleanNav\CleanNav\bin\Release\Telerik.Web.UI.dll
+C:\Users\cwoodard.APTERASOFTWARE\Desktop\CleanNav\CleanNav\bin\Release\Telerik.Reporting.dll
+C:\Users\cwoodard.APTERASOFTWARE\Desktop\CleanNav\CleanNav\bin\Release\Facebook.dll
+C:\Users\cwoodard.APTERASOFTWARE\Desktop\CleanNav\CleanNav\bin\Release\Telerik.OpenAccess.Web.dll
+C:\Users\cwoodard.APTERASOFTWARE\Desktop\CleanNav\CleanNav\bin\Release\Telerik.Windows.RadUploadHandler.dll
+C:\Users\cwoodard.APTERASOFTWARE\Desktop\CleanNav\CleanNav\bin\Release\DocumentFormat.OpenXml.dll
+C:\Users\cwoodard.APTERASOFTWARE\Desktop\CleanNav\CleanNav\bin\Release\Telerik.ReportViewer.WebForms.dll
+C:\Users\cwoodard.APTERASOFTWARE\Desktop\CleanNav\CleanNav\bin\Release\Telerik.Sitefinity.MigrationContracts.dll
+C:\Users\cwoodard.APTERASOFTWARE\Desktop\CleanNav\CleanNav\bin\Release\Twitterizer2.dll
+C:\Users\cwoodard.APTERASOFTWARE\Desktop\CleanNav\CleanNav\bin\Release\AjaxControlToolkit.dll
+C:\Users\cwoodard.APTERASOFTWARE\Desktop\CleanNav\CleanNav\bin\Release\Microsoft.Practices.ServiceLocation.dll
+C:\Users\cwoodard.APTERASOFTWARE\Desktop\CleanNav\CleanNav\bin\Release\Microsoft.WindowsAzure.StorageClient.dll
+C:\Users\cwoodard.APTERASOFTWARE\Desktop\CleanNav\CleanNav\bin\Release\Microsoft.WindowsAzure.Diagnostics.dll
+C:\Users\cwoodard.APTERASOFTWARE\Desktop\CleanNav\CleanNav\bin\Release\Payflow_dotNET.dll
+C:\Users\cwoodard.APTERASOFTWARE\Desktop\CleanNav\CleanNav\bin\Release\DirectShowLib-2005.dll
+C:\Users\cwoodard.APTERASOFTWARE\Desktop\CleanNav\CleanNav\bin\Release\Newtonsoft.Json.dll
+C:\Users\cwoodard.APTERASOFTWARE\Desktop\CleanNav\CleanNav\bin\Release\Telerik.OpenAccess.xml
+C:\Users\cwoodard.APTERASOFTWARE\Desktop\CleanNav\CleanNav\bin\Release\Telerik.Sitefinity.xml
+C:\Users\cwoodard.APTERASOFTWARE\Desktop\CleanNav\CleanNav\bin\Release\Telerik.Sitefinity.Model.xml
+C:\Users\cwoodard.APTERASOFTWARE\Desktop\CleanNav\CleanNav\bin\Release\Telerik.Sitefinity.Utilities.xml
+C:\Users\cwoodard.APTERASOFTWARE\Desktop\CleanNav\CleanNav\bin\Release\Telerik.OpenAccess.35.Extensions.xml
+C:\Users\cwoodard.APTERASOFTWARE\Desktop\CleanNav\CleanNav\bin\Release\Telerik.Web.UI.xml
+C:\Users\cwoodard.APTERASOFTWARE\Desktop\CleanNav\CleanNav\bin\Release\Telerik.Reporting.xml
+C:\Users\cwoodard.APTERASOFTWARE\Desktop\CleanNav\CleanNav\bin\Release\Facebook.xml
+C:\Users\cwoodard.APTERASOFTWARE\Desktop\CleanNav\CleanNav\bin\Release\Telerik.OpenAccess.Web.xml
+C:\Users\cwoodard.APTERASOFTWARE\Desktop\CleanNav\CleanNav\bin\Release\DocumentFormat.OpenXml.xml
+C:\Users\cwoodard.APTERASOFTWARE\Desktop\CleanNav\CleanNav\bin\Release\Telerik.ReportViewer.WebForms.xml
+C:\Users\cwoodard.APTERASOFTWARE\Desktop\CleanNav\CleanNav\bin\Release\Twitterizer2.xml
+C:\Users\cwoodard.APTERASOFTWARE\Desktop\CleanNav\CleanNav\bin\Release\Microsoft.Practices.ServiceLocation.xml
+C:\Users\cwoodard.APTERASOFTWARE\Desktop\CleanNav\CleanNav\bin\Release\Newtonsoft.Json.xml
+C:\Users\Chris\Documents\Visual Studio 2010\Projects\CleanNav\bin\Release\CleanNav.dll
+C:\Users\Chris\Documents\Visual Studio 2010\Projects\CleanNav\bin\Release\CleanNav.pdb
+C:\Users\Chris\Documents\Visual Studio 2010\Projects\CleanNav\bin\Release\Telerik.Sitefinity.Utilities.dll
+C:\Users\Chris\Documents\Visual Studio 2010\Projects\CleanNav\bin\Release\Telerik.OpenAccess.35.Extensions.dll
+C:\Users\Chris\Documents\Visual Studio 2010\Projects\CleanNav\bin\Release\Telerik.Web.UI.dll
+C:\Users\Chris\Documents\Visual Studio 2010\Projects\CleanNav\bin\Release\Facebook.dll
+C:\Users\Chris\Documents\Visual Studio 2010\Projects\CleanNav\bin\Release\Telerik.OpenAccess.Web.dll
+C:\Users\Chris\Documents\Visual Studio 2010\Projects\CleanNav\bin\Release\Telerik.Windows.RadUploadHandler.dll
+C:\Users\Chris\Documents\Visual Studio 2010\Projects\CleanNav\bin\Release\DocumentFormat.OpenXml.dll
+C:\Users\Chris\Documents\Visual Studio 2010\Projects\CleanNav\bin\Release\Twitterizer2.dll
+C:\Users\Chris\Documents\Visual Studio 2010\Projects\CleanNav\bin\Release\AjaxControlToolkit.dll
+C:\Users\Chris\Documents\Visual Studio 2010\Projects\CleanNav\bin\Release\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Chris\Documents\Visual Studio 2010\Projects\CleanNav\bin\Release\DirectShowLib-2005.dll
+C:\Users\Chris\Documents\Visual Studio 2010\Projects\CleanNav\bin\Release\Newtonsoft.Json.dll
+C:\Users\Chris\Documents\Visual Studio 2010\Projects\CleanNav\bin\Release\Telerik.OpenAccess.xml
+C:\Users\Chris\Documents\Visual Studio 2010\Projects\CleanNav\bin\Release\Telerik.Sitefinity.xml
+C:\Users\Chris\Documents\Visual Studio 2010\Projects\CleanNav\bin\Release\Telerik.Sitefinity.Model.xml
+C:\Users\Chris\Documents\Visual Studio 2010\Projects\CleanNav\bin\Release\Telerik.Sitefinity.Utilities.xml
+C:\Users\Chris\Documents\Visual Studio 2010\Projects\CleanNav\bin\Release\Telerik.OpenAccess.35.Extensions.xml
+C:\Users\Chris\Documents\Visual Studio 2010\Projects\CleanNav\bin\Release\Telerik.Web.UI.xml
+C:\Users\Chris\Documents\Visual Studio 2010\Projects\CleanNav\bin\Release\Facebook.xml
+C:\Users\Chris\Documents\Visual Studio 2010\Projects\CleanNav\bin\Release\Telerik.OpenAccess.Web.xml
+C:\Users\Chris\Documents\Visual Studio 2010\Projects\CleanNav\bin\Release\DocumentFormat.OpenXml.xml
+C:\Users\Chris\Documents\Visual Studio 2010\Projects\CleanNav\bin\Release\Twitterizer2.xml
+C:\Users\Chris\Documents\Visual Studio 2010\Projects\CleanNav\bin\Release\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Chris\Documents\Visual Studio 2010\Projects\CleanNav\bin\Release\Newtonsoft.Json.xml
+C:\Users\Chris\Documents\Visual Studio 2010\Projects\CleanNav\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Chris\Documents\Visual Studio 2010\Projects\CleanNav\obj\Release\CleanNav.dll
+C:\Users\Chris\Documents\Visual Studio 2010\Projects\CleanNav\obj\Release\CleanNav.pdb
+C:\Users\Chris\Documents\Visual Studio 2010\Projects\CleanNav\bin\Release\Telerik.OpenAccess.dll
+C:\Users\Chris\Documents\Visual Studio 2010\Projects\CleanNav\bin\Release\Telerik.Sitefinity.dll
+C:\Users\Chris\Documents\Visual Studio 2010\Projects\CleanNav\bin\Release\Telerik.Sitefinity.Model.dll
+C:\Users\Chris\Documents\Visual Studio 2010\Projects\CleanNav\bin\Release\Telerik.Sitefinity.Resources.dll
+C:\Users\Chris\Documents\Visual Studio 2010\Projects\CleanNav\bin\Release\Telerik.Sitefinity.Resources.xml
+C:\Users\Chris\Documents\Visual Studio 2010\Projects\CleanNav\bin\Release\ActiveUp.Net.Smtp.dll
+C:\Users\Chris\Documents\Visual Studio 2010\Projects\CleanNav\bin\Release\ActiveUp.Net.Common.dll
+C:\Users\Chris\Documents\Visual Studio 2010\Projects\CleanNav\bin\Release\ActiveUp.Net.Dns.dll
+C:\Users\Chris\Documents\Visual Studio 2010\Projects\CleanNav\bin\Release\ActiveUp.Net.Smtp.xml
+C:\Users\Chris\Documents\Visual Studio 2010\Projects\CleanNav\bin\Release\ActiveUp.Net.Common.xml
+C:\Users\Chris\Documents\Visual Studio 2010\Projects\CleanNav\bin\Release\ActiveUp.Net.Dns.xml
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Val BKUP\Sitefinity\CleanNav\bin\Release\CleanNav.dll
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Val BKUP\Sitefinity\CleanNav\bin\Release\CleanNav.pdb
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Val BKUP\Sitefinity\CleanNav\bin\Release\Telerik.OpenAccess.dll
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Val BKUP\Sitefinity\CleanNav\bin\Release\Telerik.Sitefinity.dll
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Val BKUP\Sitefinity\CleanNav\bin\Release\Telerik.Sitefinity.Model.dll
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Val BKUP\Sitefinity\CleanNav\bin\Release\Telerik.Sitefinity.Resources.dll
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Val BKUP\Sitefinity\CleanNav\bin\Release\Telerik.Sitefinity.Utilities.dll
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Val BKUP\Sitefinity\CleanNav\bin\Release\Microsoft.WindowsAzure.ServiceRuntime.dll
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Val BKUP\Sitefinity\CleanNav\bin\Release\Telerik.OpenAccess.35.Extensions.dll
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Val BKUP\Sitefinity\CleanNav\bin\Release\Facebook.dll
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Val BKUP\Sitefinity\CleanNav\bin\Release\Telerik.Web.UI.dll
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Val BKUP\Sitefinity\CleanNav\bin\Release\Telerik.OpenAccess.Web.dll
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Val BKUP\Sitefinity\CleanNav\bin\Release\Telerik.Windows.RadUploadHandler.dll
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Val BKUP\Sitefinity\CleanNav\bin\Release\DocumentFormat.OpenXml.dll
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Val BKUP\Sitefinity\CleanNav\bin\Release\Twitterizer2.dll
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Val BKUP\Sitefinity\CleanNav\bin\Release\AjaxControlToolkit.dll
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Val BKUP\Sitefinity\CleanNav\bin\Release\Microsoft.Practices.ServiceLocation.dll
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Val BKUP\Sitefinity\CleanNav\bin\Release\Microsoft.WindowsAzure.StorageClient.dll
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Val BKUP\Sitefinity\CleanNav\bin\Release\Microsoft.WindowsAzure.Diagnostics.dll
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Val BKUP\Sitefinity\CleanNav\bin\Release\DirectShowLib-2005.dll
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Val BKUP\Sitefinity\CleanNav\bin\Release\Newtonsoft.Json.dll
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Val BKUP\Sitefinity\CleanNav\bin\Release\Telerik.OpenAccess.xml
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Val BKUP\Sitefinity\CleanNav\bin\Release\Telerik.Sitefinity.xml
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Val BKUP\Sitefinity\CleanNav\bin\Release\Telerik.Sitefinity.Model.xml
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Val BKUP\Sitefinity\CleanNav\bin\Release\Telerik.Sitefinity.Resources.xml
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Val BKUP\Sitefinity\CleanNav\bin\Release\Telerik.Sitefinity.Utilities.xml
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Val BKUP\Sitefinity\CleanNav\bin\Release\Telerik.OpenAccess.35.Extensions.xml
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Val BKUP\Sitefinity\CleanNav\bin\Release\Facebook.xml
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Val BKUP\Sitefinity\CleanNav\bin\Release\Telerik.Web.UI.xml
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Val BKUP\Sitefinity\CleanNav\bin\Release\Telerik.OpenAccess.Web.xml
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Val BKUP\Sitefinity\CleanNav\bin\Release\DocumentFormat.OpenXml.xml
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Val BKUP\Sitefinity\CleanNav\bin\Release\Twitterizer2.xml
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Val BKUP\Sitefinity\CleanNav\bin\Release\Microsoft.Practices.ServiceLocation.xml
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Val BKUP\Sitefinity\CleanNav\bin\Release\Newtonsoft.Json.xml
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Val BKUP\Sitefinity\CleanNav\obj\Release\ResolveAssemblyReference.cache
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Val BKUP\Sitefinity\CleanNav\obj\Release\CleanNav.dll
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Val BKUP\Sitefinity\CleanNav\obj\Release\CleanNav.pdb
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Val BKUP\Sitefinity\CleanNav\CommunitySafe\obj\Release\ResolveAssemblyReference.cache
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Val BKUP\Sitefinity\CleanNav\CommunitySafe\obj\Release\CleanNav.dll
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Val BKUP\Sitefinity\CleanNav\CommunitySafe\bin\Release\CleanNav.dll
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Val BKUP\Sitefinity\CleanNav\CommunitySafe\bin\Release\CleanNav.pdb
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Val BKUP\Sitefinity\CleanNav\CommunitySafe\bin\Release\Telerik.Sitefinity.Utilities.dll
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Val BKUP\Sitefinity\CleanNav\CommunitySafe\bin\Release\Telerik.OpenAccess.35.Extensions.dll
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Val BKUP\Sitefinity\CleanNav\CommunitySafe\bin\Release\Facebook.dll
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Val BKUP\Sitefinity\CleanNav\CommunitySafe\bin\Release\Telerik.Web.UI.dll
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Val BKUP\Sitefinity\CleanNav\CommunitySafe\bin\Release\Telerik.OpenAccess.Web.dll
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Val BKUP\Sitefinity\CleanNav\CommunitySafe\bin\Release\Telerik.Windows.RadUploadHandler.dll
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Val BKUP\Sitefinity\CleanNav\CommunitySafe\bin\Release\DocumentFormat.OpenXml.dll
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Val BKUP\Sitefinity\CleanNav\CommunitySafe\bin\Release\Twitterizer2.dll
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Val BKUP\Sitefinity\CleanNav\CommunitySafe\bin\Release\AjaxControlToolkit.dll
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Val BKUP\Sitefinity\CleanNav\CommunitySafe\bin\Release\Microsoft.Practices.ServiceLocation.dll
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Val BKUP\Sitefinity\CleanNav\CommunitySafe\bin\Release\DirectShowLib-2005.dll
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Val BKUP\Sitefinity\CleanNav\CommunitySafe\bin\Release\Newtonsoft.Json.dll
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Val BKUP\Sitefinity\CleanNav\CommunitySafe\bin\Release\Telerik.Sitefinity.xml
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Val BKUP\Sitefinity\CleanNav\CommunitySafe\bin\Release\Telerik.Sitefinity.Model.xml
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Val BKUP\Sitefinity\CleanNav\CommunitySafe\bin\Release\Telerik.Sitefinity.Resources.xml
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Val BKUP\Sitefinity\CleanNav\CommunitySafe\bin\Release\Telerik.Sitefinity.Utilities.xml
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Val BKUP\Sitefinity\CleanNav\CommunitySafe\bin\Release\Telerik.OpenAccess.35.Extensions.xml
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Val BKUP\Sitefinity\CleanNav\CommunitySafe\bin\Release\Facebook.xml
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Val BKUP\Sitefinity\CleanNav\CommunitySafe\bin\Release\Telerik.Web.UI.xml
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Val BKUP\Sitefinity\CleanNav\CommunitySafe\bin\Release\Telerik.OpenAccess.Web.xml
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Val BKUP\Sitefinity\CleanNav\CommunitySafe\bin\Release\DocumentFormat.OpenXml.xml
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Val BKUP\Sitefinity\CleanNav\CommunitySafe\bin\Release\Twitterizer2.xml
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Val BKUP\Sitefinity\CleanNav\CommunitySafe\bin\Release\Microsoft.Practices.ServiceLocation.xml
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Val BKUP\Sitefinity\CleanNav\CommunitySafe\bin\Release\Newtonsoft.Json.xml
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Val BKUP\Sitefinity\CleanNav\CommunitySafe\obj\Release\CleanNav.pdb
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Val BKUP\Sitefinity\CleanNav\CommunitySafe\bin\Release\Telerik.Sitefinity.dll
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Val BKUP\Sitefinity\CleanNav\CommunitySafe\bin\Release\Telerik.Sitefinity.Model.dll
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Val BKUP\Sitefinity\CleanNav\CommunitySafe\bin\Release\Telerik.Sitefinity.Resources.dll
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Val BKUP\Sitefinity\CleanNav\CommunitySafe\bin\Release\Telerik.OpenAccess.dll
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Val BKUP\Sitefinity\CleanNav\CommunitySafe\bin\Release\Telerik.OpenAccess.xml
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Val BKUP\Sitefinity\CleanNav\CommunitySafe\bin\Release\Microsoft.WindowsAzure.ServiceRuntime.dll
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Val BKUP\Sitefinity\CleanNav\CommunitySafe\bin\Release\Microsoft.WindowsAzure.StorageClient.dll
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Val BKUP\Sitefinity\CleanNav\CommunitySafe\bin\Release\Microsoft.WindowsAzure.Diagnostics.dll
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Val BKUP\Sitefinity\CleanNav\UnSafe\bin\Release\CleanNav.dll
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Val BKUP\Sitefinity\CleanNav\UnSafe\bin\Release\CleanNav.pdb
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Val BKUP\Sitefinity\CleanNav\UnSafe\bin\Release\Telerik.Sitefinity.dll
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Val BKUP\Sitefinity\CleanNav\UnSafe\bin\Release\Telerik.Sitefinity.Model.dll
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Val BKUP\Sitefinity\CleanNav\UnSafe\bin\Release\Telerik.Sitefinity.Resources.dll
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Val BKUP\Sitefinity\CleanNav\UnSafe\bin\Release\Telerik.Sitefinity.Utilities.dll
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Val BKUP\Sitefinity\CleanNav\UnSafe\bin\Release\Telerik.OpenAccess.35.Extensions.dll
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Val BKUP\Sitefinity\CleanNav\UnSafe\bin\Release\Telerik.Web.UI.dll
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Val BKUP\Sitefinity\CleanNav\UnSafe\bin\Release\Facebook.dll
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Val BKUP\Sitefinity\CleanNav\UnSafe\bin\Release\Telerik.OpenAccess.Web.dll
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Val BKUP\Sitefinity\CleanNav\UnSafe\bin\Release\Telerik.Windows.RadUploadHandler.dll
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Val BKUP\Sitefinity\CleanNav\UnSafe\bin\Release\DocumentFormat.OpenXml.dll
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Val BKUP\Sitefinity\CleanNav\UnSafe\bin\Release\Twitterizer2.dll
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Val BKUP\Sitefinity\CleanNav\UnSafe\bin\Release\AjaxControlToolkit.dll
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Val BKUP\Sitefinity\CleanNav\UnSafe\bin\Release\Microsoft.Practices.ServiceLocation.dll
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Val BKUP\Sitefinity\CleanNav\UnSafe\bin\Release\DirectShowLib-2005.dll
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Val BKUP\Sitefinity\CleanNav\UnSafe\bin\Release\Newtonsoft.Json.dll
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Val BKUP\Sitefinity\CleanNav\UnSafe\bin\Release\Telerik.Sitefinity.xml
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Val BKUP\Sitefinity\CleanNav\UnSafe\bin\Release\Telerik.Sitefinity.Model.xml
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Val BKUP\Sitefinity\CleanNav\UnSafe\bin\Release\Telerik.Sitefinity.Resources.xml
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Val BKUP\Sitefinity\CleanNav\UnSafe\bin\Release\Telerik.Sitefinity.Utilities.xml
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Val BKUP\Sitefinity\CleanNav\UnSafe\bin\Release\Telerik.OpenAccess.35.Extensions.xml
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Val BKUP\Sitefinity\CleanNav\UnSafe\bin\Release\Telerik.Web.UI.xml
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Val BKUP\Sitefinity\CleanNav\UnSafe\bin\Release\Facebook.xml
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Val BKUP\Sitefinity\CleanNav\UnSafe\bin\Release\Telerik.OpenAccess.Web.xml
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Val BKUP\Sitefinity\CleanNav\UnSafe\bin\Release\DocumentFormat.OpenXml.xml
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Val BKUP\Sitefinity\CleanNav\UnSafe\bin\Release\Twitterizer2.xml
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Val BKUP\Sitefinity\CleanNav\UnSafe\bin\Release\Microsoft.Practices.ServiceLocation.xml
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Val BKUP\Sitefinity\CleanNav\UnSafe\bin\Release\Newtonsoft.Json.xml
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Val BKUP\Sitefinity\CleanNav\UnSafe\obj\Release\ResolveAssemblyReference.cache
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Val BKUP\Sitefinity\CleanNav\UnSafe\obj\Release\CleanNav.dll
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Val BKUP\Sitefinity\CleanNav\UnSafe\obj\Release\CleanNav.pdb
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Val BKUP\Sitefinity\CleanNav\UnSafe\bin\Release\Telerik.OpenAccess.dll
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Val BKUP\Sitefinity\CleanNav\UnSafe\bin\Release\ActiveUp.Net.Smtp.dll
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Val BKUP\Sitefinity\CleanNav\UnSafe\bin\Release\ActiveUp.Net.Common.dll
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Val BKUP\Sitefinity\CleanNav\UnSafe\bin\Release\ActiveUp.Net.Dns.dll
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Val BKUP\Sitefinity\CleanNav\UnSafe\bin\Release\Telerik.OpenAccess.xml
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Val BKUP\Sitefinity\CleanNav\UnSafe\bin\Release\ActiveUp.Net.Smtp.xml
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Val BKUP\Sitefinity\CleanNav\UnSafe\bin\Release\ActiveUp.Net.Common.xml
+C:\Users\vvieyra.APTERASOFTWARE\Documents\Val BKUP\Sitefinity\CleanNav\UnSafe\bin\Release\ActiveUp.Net.Dns.xml
